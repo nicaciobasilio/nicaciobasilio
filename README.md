@@ -12,7 +12,7 @@
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://culturalgutter.files.wordpress.com/2013/11/62c1f-screen-shot-2013-10-07-at-4.30.36-pm.png">
+  <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/360362257/original.jpg">
 </div>
   
   ##
