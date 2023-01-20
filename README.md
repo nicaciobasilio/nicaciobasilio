@@ -15,7 +15,11 @@
   <img align="center" alt="Nick-Sass" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
   <img align="center" alt="Nick-Less" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="Nick-Gulp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg">
-  <img align="center" alt="Nick-Grunt" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grunt/grunt-original.svg">
+  <img align="center" alt="Nick-Grunt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grunt/grunt-original.svg">
+  <img align="center" alt="Nick-Bs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Nick-Jq" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg">
+  
+  
   <img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/360362257/original.jpg">
 </div>
   
